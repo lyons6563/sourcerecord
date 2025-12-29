@@ -1,0 +1,18 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Env
+.env
+
+# Local artifacts (v1 can store locally before S3)
+data/
+.artifacts/
+
+# OS / Editor
+.DS_Store
+.vscode/
