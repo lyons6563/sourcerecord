@@ -19,14 +19,25 @@ def sha256_hex(b: bytes) -> str:
     return hashlib.sha256(b).hexdigest()
 
 def compute_chain_sha256(
+    prev_capture_id: str | None,
     prev_chain: str | None,
     raw_sha: str,
     norm_sha: str,
     captured_at_iso: str,
     canonical_url: str,
 ) -> str:
-    base = (prev_chain or "") + raw_sha + norm_sha + captured_at_iso + canonical_url
+    base = "|".join(
+        [
+            prev_capture_id or "",
+            prev_chain or "",
+            raw_sha,
+            norm_sha,
+            captured_at_iso,
+            canonical_url,
+        ]
+    )
     return sha256_hex(base.encode("utf-8"))
+
 
 @router.post("/{source_id}/captures", response_model=CaptureOut)
 async def create_capture(source_id: uuid.UUID, db: AsyncSession = Depends(get_db)):
@@ -72,12 +83,14 @@ async def create_capture(source_id: uuid.UUID, db: AsyncSession = Depends(get_db
         fetch_error = repr(e)
 
     chain_sha = compute_chain_sha256(
+        prev_capture_id=str(prev_id) if prev_id else None,
         prev_chain=prev_chain,
         raw_sha=fetched["raw_bytes_sha256"],
         norm_sha=fetched["normalized_text_sha256"],
         captured_at_iso=captured_at_iso,
         canonical_url=source.canonical_url,
     )
+
 
     cap = Capture(
         org_id=V1_ORG_ID,
