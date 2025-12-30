@@ -22,7 +22,7 @@ def _assert_manifest_data_small(manifest_data: dict) -> None:
 
 def build_proof_pack(source_id: str) -> Tuple[bytes, str]:
     """
-    Generate an in-memory Proof Pack ZIP containing manifest.json, timeline.json, and methodology.md.
+    Generate an in-memory Proof Pack ZIP containing manifest.json, timeline.json, methodology.md, and verify.py.
     
     Args:
         source_id: The source ID to include in the pack
@@ -63,7 +63,52 @@ def build_proof_pack(source_id: str) -> Tuple[bytes, str]:
         zip_file.writestr("methodology.md", methodology_bytes)
         files_data.append({"path": "methodology.md", "sha256": methodology_sha256})
         
-        # 3. Generate manifest.json (metadata only, no file contents, no self-reference)
+        # 3. Generate verify.py (deterministic, no timestamps)
+        verify_py_content = """#!/usr/bin/env python3
+import hashlib
+import json
+import sys
+from pathlib import Path
+
+def main():
+    manifest_path = Path("manifest.json")
+    if not manifest_path.exists():
+        print("FAIL: manifest.json not found")
+        sys.exit(1)
+    
+    with open(manifest_path, "rb") as f:
+        manifest_data = json.loads(f.read().decode("utf-8"))
+    
+    files = manifest_data.get("files", [])
+    for file_entry in files:
+        file_path = Path(file_entry["path"])
+        expected_hash = file_entry["sha256"]
+        
+        if not file_path.exists():
+            print(f"FAIL: {file_path} not found")
+            sys.exit(1)
+        
+        with open(file_path, "rb") as f:
+            file_bytes = f.read()
+        
+        computed_hash = hashlib.sha256(file_bytes).hexdigest()
+        
+        if computed_hash != expected_hash:
+            print(f"FAIL: {file_path} hash mismatch")
+            sys.exit(1)
+    
+    print("PASS: all files verified")
+    sys.exit(0)
+
+if __name__ == "__main__":
+    main()
+"""
+        verify_py_bytes = verify_py_content.encode('utf-8')
+        verify_py_sha256 = hashlib.sha256(verify_py_bytes).hexdigest()
+        zip_file.writestr("verify.py", verify_py_bytes)
+        files_data.append({"path": "verify.py", "sha256": verify_py_sha256})
+        
+        # 4. Generate manifest.json (metadata only, no file contents, no self-reference)
         generated_at = now.isoformat()
         # Create manifest structure with only metadata and hashes (excludes manifest.json itself)
         manifest_data = {
