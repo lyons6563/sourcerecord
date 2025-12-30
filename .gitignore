@@ -16,3 +16,6 @@ data/
 # OS / Editor
 .DS_Store
 .vscode/
+
+tmp/
+proofpack_*.zip
