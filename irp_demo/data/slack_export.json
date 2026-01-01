@@ -1,0 +1,2270 @@
+{
+  "workspace": "Example Advisors",
+  "export_type": "standard",
+  "time_window": {
+    "start": "2024-01-01T00:00:00-05:00",
+    "end": "2024-02-15T23:59:59-05:00"
+  },
+  "channels": [
+    {
+      "name": "#advisors",
+      "messages": [
+        {
+          "message_id": "slk-0004",
+          "timestamp": "2024-01-01T10:44:27-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The compliance review is in progress.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0031",
+          "timestamp": "2024-01-01T14:16:59-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've forwarded the information to the appropriate team.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0016",
+          "timestamp": "2024-01-01T18:46:07-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly report is being prepared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0125",
+          "timestamp": "2024-01-02T08:20:50-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've forwarded the information to the appropriate team.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0052",
+          "timestamp": "2024-01-02T09:56:16-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The compliance documentation is complete.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-02T05:56:16-05:00"
+        },
+        {
+          "message_id": "slk-0048",
+          "timestamp": "2024-01-02T10:47:59-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can we touch base on this tomorrow?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0086",
+          "timestamp": "2024-01-02T15:54:20-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The meeting notes have been shared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0131",
+          "timestamp": "2024-01-02T18:25:17-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've updated the client records.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0100",
+          "timestamp": "2024-01-03T11:18:45-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can someone check the status update?",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0046",
+          "timestamp": "2024-01-03T13:13:43-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I'll coordinate the follow-up on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0011",
+          "timestamp": "2024-01-04T11:52:02-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The documentation has been filed appropriately.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0076",
+          "timestamp": "2024-01-04T13:14:41-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The compliance checklist has been updated.",
+          "has_attachment": true,
+          "thread_ts": "2024-01-04T11:14:41-05:00"
+        },
+        {
+          "message_id": "slk-0051",
+          "timestamp": "2024-01-05T12:22:41-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The documentation has been filed appropriately.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0068",
+          "timestamp": "2024-01-06T10:09:14-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can someone check the status update?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0085",
+          "timestamp": "2024-01-06T12:56:28-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've forwarded the request to the appropriate department.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0005",
+          "timestamp": "2024-01-06T14:06:22-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can we discuss this in our next team meeting?",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0124",
+          "timestamp": "2024-01-06T14:06:48-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've completed the necessary documentation.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0107",
+          "timestamp": "2024-01-06T15:22:26-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The client meeting has been scheduled.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0104",
+          "timestamp": "2024-01-06T17:02:56-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Please review when you have a moment.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-06T11:02:56-05:00"
+        },
+        {
+          "message_id": "slk-0147",
+          "timestamp": "2024-01-06T18:13:41-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can we discuss this in our next team meeting?",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0043",
+          "timestamp": "2024-01-06T18:27:53-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can someone confirm the meeting time for next week? Note: send this later after review.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0094",
+          "timestamp": "2024-01-07T08:36:18-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've completed the initial review.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-07T04:36:18-05:00"
+        },
+        {
+          "message_id": "slk-0063",
+          "timestamp": "2024-01-07T14:14:11-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I'll follow up on this next week.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0008",
+          "timestamp": "2024-01-07T14:17:29-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly statement is ready for distribution.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0095",
+          "timestamp": "2024-01-08T09:25:31-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've updated the client records.",
+          "has_attachment": true,
+          "thread_ts": "2024-01-08T04:25:31-05:00"
+        },
+        {
+          "message_id": "slk-0006",
+          "timestamp": "2024-01-08T14:05:35-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The client has been notified.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0113",
+          "timestamp": "2024-01-08T15:07:41-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The meeting notes have been shared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0064",
+          "timestamp": "2024-01-08T15:08:51-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I'll coordinate the follow-up on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0139",
+          "timestamp": "2024-01-08T15:23:43-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly review materials are ready.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0103",
+          "timestamp": "2024-01-08T15:44:19-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The documentation has been filed appropriately.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0035",
+          "timestamp": "2024-01-08T17:15:37-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can someone confirm the meeting time for next week?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0142",
+          "timestamp": "2024-01-09T08:02:19-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Reminder: team meeting scheduled for Thursday at 2 PM.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-09T04:02:19-05:00"
+        },
+        {
+          "message_id": "slk-0150",
+          "timestamp": "2024-01-09T08:22:50-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The compliance documentation is complete.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-09T02:22:50-05:00"
+        },
+        {
+          "message_id": "slk-0115",
+          "timestamp": "2024-01-09T09:17:49-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've updated the tracking spreadsheet.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0135",
+          "timestamp": "2024-01-09T09:58:18-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Please review when you have a moment.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0021",
+          "timestamp": "2024-01-09T10:42:30-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The audit trail has been completed.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0111",
+          "timestamp": "2024-01-09T12:28:56-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The meeting notes have been shared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0074",
+          "timestamp": "2024-01-09T15:11:03-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I'll coordinate with the team on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0014",
+          "timestamp": "2024-01-09T16:31:05-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Reminder: team meeting scheduled for Thursday at 2 PM.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0148",
+          "timestamp": "2024-01-09T17:13:04-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please confirm receipt of the materials I sent.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0102",
+          "timestamp": "2024-01-10T09:03:10-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can we discuss this in our next team meeting?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0045",
+          "timestamp": "2024-01-10T16:02:53-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The compliance documentation is complete.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-10T13:02:53-05:00"
+        },
+        {
+          "message_id": "slk-0149",
+          "timestamp": "2024-01-10T17:00:17-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've updated the shared folder with the latest files.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-10T16:00:17-05:00"
+        },
+        {
+          "message_id": "slk-0034",
+          "timestamp": "2024-01-11T08:32:05-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Please make sure to complete the compliance checklist by end of day.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0099",
+          "timestamp": "2024-01-11T11:11:35-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The audit trail has been completed. I would recommend we discuss this further.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0018",
+          "timestamp": "2024-01-12T16:58:06-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Let me know if you need any additional documentation.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0077",
+          "timestamp": "2024-01-13T08:39:09-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've updated the shared folder with the latest files.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0110",
+          "timestamp": "2024-01-13T16:23:39-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The client has been notified.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0145",
+          "timestamp": "2024-01-14T15:28:15-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The client documentation has been processed.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0059",
+          "timestamp": "2024-01-14T16:30:50-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The audit trail has been completed.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0022",
+          "timestamp": "2024-01-14T16:48:46-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I'll review this and get back to you by end of week.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0024",
+          "timestamp": "2024-01-15T17:14:00-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've completed the necessary documentation.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0029",
+          "timestamp": "2024-01-16T09:28:51-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The client documentation has been processed. We should review the allocation strategy.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0112",
+          "timestamp": "2024-01-16T10:19:35-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Please confirm the timeline for this project.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0030",
+          "timestamp": "2024-01-16T10:26:31-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Please confirm receipt of the materials I sent.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0067",
+          "timestamp": "2024-01-16T12:28:04-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've forwarded the information to the appropriate team.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0039",
+          "timestamp": "2024-01-16T13:18:10-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The quarterly report is being prepared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0061",
+          "timestamp": "2024-01-16T15:39:54-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Please ensure all documentation is up to date.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0088",
+          "timestamp": "2024-01-16T15:41:45-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The review process is proceeding as expected.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0013",
+          "timestamp": "2024-01-16T16:34:16-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The compliance documentation is complete.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0041",
+          "timestamp": "2024-01-17T09:56:06-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please confirm the timeline for this project.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0101",
+          "timestamp": "2024-01-17T18:37:42-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've confirmed the details with the client.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-17T15:37:42-05:00"
+        },
+        {
+          "message_id": "slk-0049",
+          "timestamp": "2024-01-18T10:50:44-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I'll coordinate with the team on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0072",
+          "timestamp": "2024-01-18T14:31:01-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've updated the tracking spreadsheet.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0116",
+          "timestamp": "2024-01-19T12:53:37-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I'll coordinate the follow-up on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0137",
+          "timestamp": "2024-01-19T13:51:07-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Please make sure to complete the compliance checklist by end of day.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0017",
+          "timestamp": "2024-01-19T14:10:29-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The team meeting agenda has been shared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0096",
+          "timestamp": "2024-01-20T09:15:07-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've forwarded the request to the appropriate department.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0079",
+          "timestamp": "2024-01-20T09:37:01-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've updated the client records.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0020",
+          "timestamp": "2024-01-20T11:03:15-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've sent the quarterly report for review.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-20T06:03:15-05:00"
+        },
+        {
+          "message_id": "slk-0058",
+          "timestamp": "2024-01-20T12:13:27-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can we discuss this in our next team meeting?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0056",
+          "timestamp": "2024-01-20T16:19:42-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The client meeting has been scheduled.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-20T12:19:42-05:00"
+        },
+        {
+          "message_id": "slk-0091",
+          "timestamp": "2024-01-21T09:47:34-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Thanks for handling this. Everything is in order.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0109",
+          "timestamp": "2024-01-21T09:49:25-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Good morning team. Let's make sure we're all caught up on the weekly reports.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0028",
+          "timestamp": "2024-01-22T09:15:12-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The quarterly report is being prepared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0025",
+          "timestamp": "2024-01-22T09:32:15-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I'll coordinate the follow-up on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0042",
+          "timestamp": "2024-01-22T11:43:40-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can someone verify the account information?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0069",
+          "timestamp": "2024-01-22T16:29:26-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Please confirm receipt of the materials I sent.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0122",
+          "timestamp": "2024-01-22T18:54:34-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The client meeting has been scheduled.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0053",
+          "timestamp": "2024-01-23T13:27:38-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Reminder: team meeting scheduled for Thursday at 2 PM.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0117",
+          "timestamp": "2024-01-23T13:35:48-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I'll coordinate with the team on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0129",
+          "timestamp": "2024-01-23T17:19:40-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can someone check the status update?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0140",
+          "timestamp": "2024-01-24T09:43:14-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've reviewed the documentation and everything looks good.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0019",
+          "timestamp": "2024-01-24T10:34:49-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Good morning team. Let's make sure we're all caught up on the weekly reports.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-24T07:34:49-05:00"
+        },
+        {
+          "message_id": "slk-0055",
+          "timestamp": "2024-01-24T14:04:42-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've reviewed the policy updates.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0023",
+          "timestamp": "2024-01-24T15:57:33-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Reminder: team meeting scheduled for Thursday at 2 PM.",
+          "has_attachment": true,
+          "thread_ts": "2024-01-24T10:57:33-05:00"
+        },
+        {
+          "message_id": "slk-0136",
+          "timestamp": "2024-01-24T16:32:58-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The audit trail has been completed.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0143",
+          "timestamp": "2024-01-24T18:47:44-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can we touch base on this tomorrow?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0075",
+          "timestamp": "2024-01-25T12:48:53-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can someone check the status on this?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0010",
+          "timestamp": "2024-01-25T12:59:40-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please confirm the timeline for this project.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0071",
+          "timestamp": "2024-01-25T14:34:47-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly report is being prepared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0119",
+          "timestamp": "2024-01-25T14:42:50-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can we schedule a quick sync on this?",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0130",
+          "timestamp": "2024-01-25T15:06:15-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've updated the client records.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0114",
+          "timestamp": "2024-01-27T15:30:15-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Please confirm the timeline for this project.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0126",
+          "timestamp": "2024-01-27T17:43:50-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The audit trail has been completed.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0047",
+          "timestamp": "2024-01-27T17:47:09-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The audit trail has been completed.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0121",
+          "timestamp": "2024-01-27T18:09:04-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can someone check the status on this?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0027",
+          "timestamp": "2024-01-28T14:29:55-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Thanks for the update. I'll follow up on this.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-28T10:29:55-05:00"
+        },
+        {
+          "message_id": "slk-0044",
+          "timestamp": "2024-01-29T16:45:27-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Good morning team. Let's make sure we're all caught up on the weekly reports.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0065",
+          "timestamp": "2024-01-29T17:52:46-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've confirmed the details with the client.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0083",
+          "timestamp": "2024-01-30T10:27:11-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I'll follow up on this next week.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0073",
+          "timestamp": "2024-01-30T10:39:34-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The documentation has been filed appropriately.",
+          "has_attachment": false,
+          "thread_ts": "2024-01-30T06:39:34-05:00"
+        },
+        {
+          "message_id": "slk-0078",
+          "timestamp": "2024-01-30T12:49:23-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Can we discuss this in our next team meeting?",
+          "has_attachment": false,
+          "thread_ts": "2024-01-30T10:49:23-05:00"
+        },
+        {
+          "message_id": "slk-0050",
+          "timestamp": "2024-01-30T13:19:52-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The quarterly review is scheduled for next month. Note: send this later after review.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0066",
+          "timestamp": "2024-01-31T15:16:48-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The client has been notified.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0082",
+          "timestamp": "2024-02-02T18:21:00-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The meeting notes have been shared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0036",
+          "timestamp": "2024-02-03T13:59:16-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I'll coordinate the follow-up on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0097",
+          "timestamp": "2024-02-03T14:28:58-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Let me know if you need any additional documentation.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0106",
+          "timestamp": "2024-02-03T18:28:58-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Thanks for handling this. Everything is in order.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0123",
+          "timestamp": "2024-02-04T08:39:04-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The client has been notified.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0033",
+          "timestamp": "2024-02-04T08:47:20-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Thanks for the update. I'll follow up on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0002",
+          "timestamp": "2024-02-04T09:37:27-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've reviewed the documentation and everything looks good.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0084",
+          "timestamp": "2024-02-04T15:29:27-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The compliance documentation is complete.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0003",
+          "timestamp": "2024-02-05T11:45:41-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly report is being prepared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0090",
+          "timestamp": "2024-02-05T13:22:44-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The compliance review is in progress.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0032",
+          "timestamp": "2024-02-05T18:45:31-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I'll review this and get back to you by end of week.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0038",
+          "timestamp": "2024-02-06T09:04:34-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Can someone verify the account information?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0105",
+          "timestamp": "2024-02-06T17:01:48-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The compliance review is in progress.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0026",
+          "timestamp": "2024-02-06T17:30:15-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can we touch base on this tomorrow?",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0120",
+          "timestamp": "2024-02-07T13:55:06-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The client documentation has been processed.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0092",
+          "timestamp": "2024-02-07T16:38:18-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I'll review this and get back to you by end of week.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0015",
+          "timestamp": "2024-02-08T09:24:24-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please ensure all documentation is up to date.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0087",
+          "timestamp": "2024-02-08T12:35:00-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I'll review this and get back to you by end of week.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0132",
+          "timestamp": "2024-02-08T15:53:57-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The compliance checklist has been updated.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0098",
+          "timestamp": "2024-02-09T08:39:47-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've forwarded the request to the appropriate department.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0141",
+          "timestamp": "2024-02-09T11:41:04-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please ensure all documentation is up to date.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0060",
+          "timestamp": "2024-02-09T13:05:52-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The quarterly review materials are ready.",
+          "has_attachment": false,
+          "thread_ts": "2024-02-09T12:05:52-05:00"
+        },
+        {
+          "message_id": "slk-0001",
+          "timestamp": "2024-02-10T09:01:47-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've completed the documentation review.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0134",
+          "timestamp": "2024-02-10T09:57:40-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can someone confirm the meeting time for next week?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0133",
+          "timestamp": "2024-02-10T11:39:16-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've forwarded the request to the appropriate department.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0144",
+          "timestamp": "2024-02-11T09:53:31-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can we touch base on this tomorrow?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0146",
+          "timestamp": "2024-02-11T13:03:25-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I'll review this and get back to you by end of week.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0040",
+          "timestamp": "2024-02-11T16:00:42-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Let me know if you need any additional documentation.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0128",
+          "timestamp": "2024-02-12T08:57:51-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've forwarded the information to the appropriate team.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0057",
+          "timestamp": "2024-02-12T14:43:47-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've reviewed the policy updates.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0037",
+          "timestamp": "2024-02-12T18:19:29-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've forwarded the request to the appropriate department.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0127",
+          "timestamp": "2024-02-13T11:31:58-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can we schedule a quick sync on this?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0138",
+          "timestamp": "2024-02-13T14:54:51-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly statement is ready for distribution.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0081",
+          "timestamp": "2024-02-13T17:51:07-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can someone confirm the meeting time for next week?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0070",
+          "timestamp": "2024-02-14T08:54:56-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I'll coordinate with the team on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0089",
+          "timestamp": "2024-02-14T11:19:42-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly statement is ready for distribution.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0118",
+          "timestamp": "2024-02-14T11:36:24-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The compliance checklist has been updated.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0062",
+          "timestamp": "2024-02-14T14:31:25-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Can we schedule a quick sync on this?",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0108",
+          "timestamp": "2024-02-14T15:18:42-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've forwarded the request to the appropriate department.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0009",
+          "timestamp": "2024-02-14T18:41:04-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The client has been notified.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0007",
+          "timestamp": "2024-02-15T09:02:42-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The compliance checklist has been updated.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0080",
+          "timestamp": "2024-02-15T11:04:37-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The client has been notified.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0012",
+          "timestamp": "2024-02-15T13:13:41-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The documentation has been filed appropriately.",
+          "has_attachment": false,
+          "thread_ts": "2024-02-15T11:13:41-05:00"
+        },
+        {
+          "message_id": "slk-0054",
+          "timestamp": "2024-02-15T14:00:33-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly review materials are ready.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0093",
+          "timestamp": "2024-02-15T16:08:17-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Thanks for the update. I'll follow up on this.",
+          "has_attachment": false,
+          "thread_ts": "2024-02-15T12:08:17-05:00"
+        }
+      ]
+    },
+    {
+      "name": "#client-questions",
+      "messages": [
+        {
+          "message_id": "slk-0234",
+          "timestamp": "2024-01-02T09:02:41-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can someone check the status on this?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0164",
+          "timestamp": "2024-01-02T10:17:44-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've updated the tracking spreadsheet.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0174",
+          "timestamp": "2024-01-02T13:10:51-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please ensure all documentation is up to date.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0247",
+          "timestamp": "2024-01-03T10:45:21-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I'll follow up on this next week.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0211",
+          "timestamp": "2024-01-03T13:59:19-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The documentation has been filed appropriately.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0242",
+          "timestamp": "2024-01-04T08:18:31-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please make sure to document this appropriately.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0244",
+          "timestamp": "2024-01-04T17:35:12-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Please confirm the timeline for this project.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0186",
+          "timestamp": "2024-01-04T18:41:21-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've updated the tracking spreadsheet.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0173",
+          "timestamp": "2024-01-05T13:36:27-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The documentation has been filed appropriately.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0223",
+          "timestamp": "2024-01-05T15:11:57-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The review process is proceeding as expected.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0180",
+          "timestamp": "2024-01-05T15:28:40-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The compliance review is in progress.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0202",
+          "timestamp": "2024-01-06T08:16:13-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Please confirm the timeline for this project.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0156",
+          "timestamp": "2024-01-07T09:54:41-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The compliance checklist has been updated.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0175",
+          "timestamp": "2024-01-07T11:27:37-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I'll follow up on this next week. I can also be reached via gmail if needed.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0243",
+          "timestamp": "2024-01-07T14:08:56-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The team meeting agenda has been shared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0250",
+          "timestamp": "2024-01-08T14:37:19-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can someone check the status update?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0204",
+          "timestamp": "2024-01-08T15:38:34-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The client has been notified.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0210",
+          "timestamp": "2024-01-09T09:45:49-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can someone confirm the meeting time for next week?",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0238",
+          "timestamp": "2024-01-09T13:32:35-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The client meeting has been scheduled.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0239",
+          "timestamp": "2024-01-10T09:03:18-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've reviewed the policy updates.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0176",
+          "timestamp": "2024-01-11T09:32:40-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I'll follow up on this next week.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0216",
+          "timestamp": "2024-01-11T15:22:28-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The team meeting agenda has been shared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0191",
+          "timestamp": "2024-01-13T11:08:09-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've forwarded the information to the appropriate team.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0200",
+          "timestamp": "2024-01-15T08:20:59-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've completed the necessary documentation.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0157",
+          "timestamp": "2024-01-15T14:21:52-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The documentation has been filed appropriately.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0170",
+          "timestamp": "2024-01-15T14:38:03-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Please confirm receipt of the materials I sent.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0221",
+          "timestamp": "2024-01-16T09:01:47-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The meeting notes have been shared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0226",
+          "timestamp": "2024-01-16T15:01:23-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've updated the client records.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0194",
+          "timestamp": "2024-01-16T15:39:18-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The review process is proceeding as expected.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0171",
+          "timestamp": "2024-01-17T12:20:07-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The meeting notes have been shared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0222",
+          "timestamp": "2024-01-17T15:13:39-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can someone check the status update?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0198",
+          "timestamp": "2024-01-18T15:57:32-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've confirmed the details with the client.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0217",
+          "timestamp": "2024-01-18T18:50:03-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I'll coordinate the follow-up on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0203",
+          "timestamp": "2024-01-19T11:19:07-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've completed the documentation review.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0215",
+          "timestamp": "2024-01-19T13:06:05-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I'll coordinate the follow-up on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0201",
+          "timestamp": "2024-01-19T15:44:53-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've forwarded the request to the appropriate department.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0241",
+          "timestamp": "2024-01-20T15:01:05-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can someone verify the account information?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0232",
+          "timestamp": "2024-01-20T17:34:05-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please make sure to document this appropriately.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0248",
+          "timestamp": "2024-01-21T17:20:10-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've reviewed the policy updates.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0183",
+          "timestamp": "2024-01-21T17:30:32-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Thanks for the update. I'll follow up on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0240",
+          "timestamp": "2024-01-21T17:46:20-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've forwarded the request to the appropriate department.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0224",
+          "timestamp": "2024-01-21T18:22:45-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Please confirm the timeline for this project.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0189",
+          "timestamp": "2024-01-22T10:42:44-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly review materials are ready.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0246",
+          "timestamp": "2024-01-22T16:23:48-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I'll review this and get back to you by end of week.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0237",
+          "timestamp": "2024-01-22T17:09:20-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The client meeting has been scheduled.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0209",
+          "timestamp": "2024-01-22T18:11:53-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please ensure all documentation is up to date.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0199",
+          "timestamp": "2024-01-23T08:26:03-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can someone verify the account information?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0169",
+          "timestamp": "2024-01-23T14:07:18-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly review materials are ready.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0206",
+          "timestamp": "2024-01-24T09:33:34-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can someone verify the account information?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0162",
+          "timestamp": "2024-01-24T09:48:17-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly review is scheduled for next month.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0159",
+          "timestamp": "2024-01-24T10:35:03-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please confirm the timeline for this project.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0220",
+          "timestamp": "2024-01-24T15:48:04-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've updated the shared folder with the latest files.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0197",
+          "timestamp": "2024-01-24T16:59:06-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I'll follow up on this next week.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0166",
+          "timestamp": "2024-01-25T14:29:21-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The quarterly statement is ready for distribution.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0213",
+          "timestamp": "2024-01-26T15:57:24-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Thanks for handling this. Everything is in order.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0151",
+          "timestamp": "2024-01-27T16:07:47-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've completed the initial review.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0205",
+          "timestamp": "2024-01-28T08:39:22-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've updated the client records.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0154",
+          "timestamp": "2024-01-29T09:57:05-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can we discuss this in our next team meeting?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0152",
+          "timestamp": "2024-01-29T16:14:39-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The team meeting agenda has been shared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0168",
+          "timestamp": "2024-01-29T18:27:31-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The review process is proceeding as expected.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0181",
+          "timestamp": "2024-01-30T15:02:03-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've forwarded the information to the appropriate team. Please email me if you have any questions.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0182",
+          "timestamp": "2024-01-30T17:35:50-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can someone confirm the meeting time for next week?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0153",
+          "timestamp": "2024-01-30T18:01:03-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "The documentation has been filed appropriately.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0195",
+          "timestamp": "2024-01-31T11:23:43-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The review process is proceeding as expected.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0190",
+          "timestamp": "2024-02-02T13:01:23-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Thanks for handling this. Everything is in order.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0249",
+          "timestamp": "2024-02-02T16:31:45-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Let me know if you need any additional documentation.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0192",
+          "timestamp": "2024-02-03T08:42:21-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've updated the shared folder with the latest files.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0230",
+          "timestamp": "2024-02-03T10:19:10-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The client meeting has been scheduled.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0214",
+          "timestamp": "2024-02-03T12:51:05-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've confirmed the details with the client. We should review the allocation strategy.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0231",
+          "timestamp": "2024-02-03T12:54:05-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I'll review this and get back to you by end of week.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0196",
+          "timestamp": "2024-02-03T14:10:52-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Can we discuss this in our next team meeting?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0185",
+          "timestamp": "2024-02-03T17:10:23-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've forwarded the information to the appropriate team.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0245",
+          "timestamp": "2024-02-05T12:52:39-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've reviewed the policy updates.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0229",
+          "timestamp": "2024-02-05T18:37:11-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "I've confirmed the details with the client.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0228",
+          "timestamp": "2024-02-06T09:08:20-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please make sure to complete the compliance checklist by end of day.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0161",
+          "timestamp": "2024-02-06T16:13:09-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've completed the initial review.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0155",
+          "timestamp": "2024-02-07T16:45:20-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can we discuss this in our next team meeting?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0167",
+          "timestamp": "2024-02-08T09:56:03-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The audit trail has been completed.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0227",
+          "timestamp": "2024-02-09T09:04:19-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've completed the necessary documentation.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0163",
+          "timestamp": "2024-02-09T17:43:41-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've reviewed the documentation and everything looks good.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0235",
+          "timestamp": "2024-02-10T08:31:56-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly report is being prepared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0207",
+          "timestamp": "2024-02-10T14:23:16-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've reviewed the documentation and everything looks good.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0178",
+          "timestamp": "2024-02-11T09:11:49-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The meeting notes have been shared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0177",
+          "timestamp": "2024-02-11T10:15:06-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Can someone check the status on this?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0212",
+          "timestamp": "2024-02-11T11:18:22-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Please make sure to document this appropriately.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0219",
+          "timestamp": "2024-02-11T13:23:24-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Can someone confirm the meeting time for next week?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0188",
+          "timestamp": "2024-02-11T18:25:08-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've completed the necessary documentation.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0158",
+          "timestamp": "2024-02-12T12:23:09-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've completed the initial review. Please email me if you have any questions.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0165",
+          "timestamp": "2024-02-12T14:04:09-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The client has been notified.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0160",
+          "timestamp": "2024-02-12T14:55:58-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Thanks for the update. I'll follow up on this.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0233",
+          "timestamp": "2024-02-12T17:46:57-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "I've updated the tracking spreadsheet.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0187",
+          "timestamp": "2024-02-12T17:55:09-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "I've sent the quarterly report for review.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0208",
+          "timestamp": "2024-02-12T18:06:49-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please review when you have a moment.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0218",
+          "timestamp": "2024-02-13T10:01:09-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The quarterly review materials are ready.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0236",
+          "timestamp": "2024-02-13T14:19:29-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Can someone check the status update? I would recommend we discuss this further.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0179",
+          "timestamp": "2024-02-13T17:41:40-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "The client meeting has been scheduled.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0193",
+          "timestamp": "2024-02-14T17:51:57-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "The team meeting agenda has been shared.",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0184",
+          "timestamp": "2024-02-15T09:32:41-05:00",
+          "user": "Lead Advisor",
+          "custodian": "Lead Advisor",
+          "text": "Can someone confirm the meeting time for next week?",
+          "has_attachment": false,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0172",
+          "timestamp": "2024-02-15T11:32:35-05:00",
+          "user": "Supervisory Principal",
+          "custodian": "Supervisory Principal",
+          "text": "Please review the attached materials when you have a chance. The performance metrics are being prepared.",
+          "has_attachment": true,
+          "thread_ts": null
+        },
+        {
+          "message_id": "slk-0225",
+          "timestamp": "2024-02-15T18:11:50-05:00",
+          "user": "Associate Advisor",
+          "custodian": "Associate Advisor",
+          "text": "Can someone verify the account information?",
+          "has_attachment": false,
+          "thread_ts": null
+        }
+      ]
+    }
+  ]
+}
