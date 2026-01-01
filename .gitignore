@@ -19,3 +19,7 @@ data/
 
 tmp/
 proofpack_*.zip
+!irp_demo/
+!irp_demo/data/
+!irp_demo/data/**
+

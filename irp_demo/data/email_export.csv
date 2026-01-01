@@ -1,0 +1,775 @@
+message_id,timestamp,sender,recipients,subject,body,has_attachment,custodian
+msg_0001,2024-02-10 09:01:00,sarah.johnson@exampleadvisors.com,sarah.johnson@exampleadvisors.com,Compliance Checklist,"Dear Lisa,
+
+Thank you for your email. I will review this and get back to you shortly.
+
+Regards",false,Lead Advisor
+msg_0002,2024-02-07 14:02:00,david.wilson@exampleadvisors.com,william.moore@gmail.com,Thank You,"Dear Lisa,
+
+Thank you for your patience. I am working on gathering the information you requested and will send it over shortly.
+
+Regards",false,Associate Advisor
+msg_0003,2024-02-07 12:51:00,james.miller@exampleadvisors.com,lisa.brown@exampleadvisors.com,Policy Reminder,"Good morning,
+
+I hope this email finds you well. I wanted to touch base regarding your account and discuss next steps.
+
+Best regards",false,Supervisory Principal
+msg_0004,2024-01-22 09:05:00,michael.chen@exampleadvisors.com,william.moore@company.com,Portfolio Update Request,"Dear Lisa,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks",false,Associate Advisor
+msg_0005,2024-01-06 16:18:00,david.wilson@exampleadvisors.com,michael.chen@exampleadvisors.com,Audit Trail Request,"Hi there,
+
+I hope you are doing well. I wanted to provide a brief update on the status of your request.
+
+Best regards
+
+We should review your current allocation strategy in our next meeting.",false,Supervisory Principal
+msg_0006,2024-01-06 11:55:00,lisa.brown@exampleadvisors.com,charles.garcia@company.com,Question About Statement,"Hello Michael,
+
+Thank you for reaching out. I have reviewed your request and will provide an update by end of week.
+
+Regards",false,Lead Advisor
+msg_0007,2024-02-08 10:34:00,sarah.johnson@exampleadvisors.com,emily.davis@exampleadvisors.com,Office Hours Update,"Dear Michael,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards",false,Associate Advisor
+msg_0008,2024-01-04 11:52:00,michael.chen@exampleadvisors.com,robert.martin@outlook.com,Schedule Change,"Dear Sarah,
+
+Thank you for your patience. I am working on gathering the information you requested and will send it over shortly.
+
+Regards",false,Associate Advisor
+msg_0009,2024-01-10 12:08:00,michael.chen@exampleadvisors.com,linda.jackson@yahoo.com,Account Inquiry,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",false,Lead Advisor
+msg_0010,2024-02-02 15:05:00,james.miller@exampleadvisors.com,supervisory@exampleadvisors.com,Documentation Review,"Hello,
+
+Please find attached the quarterly statement for your review. If you have any questions, feel free to reach out.
+
+Thanks",false,Supervisory Principal
+msg_0011,2024-01-25 14:38:00,david.wilson@exampleadvisors.com,supervisory@exampleadvisors.com,Audit Trail Request,"Dear John,
+
+Thank you for your patience. I am working on gathering the information you requested and will send it over shortly.
+
+Regards",false,Supervisory Principal
+msg_0012,2024-02-04 12:49:00,john.smith@exampleadvisors.com,michael.chen@exampleadvisors.com,Office Hours Update,"Dear Sarah,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks
+
+The performance metrics you requested are being prepared.",false,Lead Advisor
+msg_0013,2024-02-02 09:55:00,james.miller@exampleadvisors.com,lisa.brown@exampleadvisors.com,Quarterly Report Discussion,"Hello Sarah,
+
+Thank you for reaching out. I have reviewed your request and will provide an update by end of week.
+
+Regards",false,Lead Advisor
+msg_0014,2024-02-08 13:31:00,charles.garcia@company.com,sarah.johnson@exampleadvisors.com,Portfolio Update Request,"Dear Sarah,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards",true,Associate Advisor
+msg_0015,2024-01-05 16:49:00,william.moore@outlook.com,michael.chen@exampleadvisors.com,Account Inquiry,"Dear Sarah,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards",false,Lead Advisor
+msg_0016,2024-02-15 12:25:00,lisa.brown@exampleadvisors.com,david.wilson@exampleadvisors.com,Policy Reminder,"Hi,
+
+This is a reminder about our upcoming meeting scheduled for next week. Looking forward to our discussion.
+
+Thanks",false,Supervisory Principal
+msg_0017,2024-02-07 16:14:00,john.smith@exampleadvisors.com,john.smith@exampleadvisors.com,Weekly Team Meeting,"Dear Sarah,
+
+Thank you for your email. I will review this and get back to you shortly.
+
+Regards",false,Lead Advisor
+msg_0018,2024-02-02 11:17:00,sarah.johnson@exampleadvisors.com,david.wilson@exampleadvisors.com,Compliance Checklist,"Dear Lisa,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards",false,Lead Advisor
+msg_0019,2024-01-31 14:12:00,thomas.anderson@business.net,emily.davis@exampleadvisors.com,Annual Review Discussion,"Hi Lisa,
+
+I wanted to follow up on our recent conversation. Please let me know if you have any questions.
+
+Best regards",false,Lead Advisor
+msg_0020,2024-01-04 14:46:00,jennifer.white@outlook.com,sarah.johnson@exampleadvisors.com,Annual Review Discussion,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",false,Lead Advisor
+msg_0021,2024-01-29 16:06:00,charles.garcia@gmail.com,john.smith@exampleadvisors.com,Thank You,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",false,Associate Advisor
+msg_0022,2024-01-04 10:24:00,james.miller@exampleadvisors.com,charles.garcia@business.net,Documentation Request,"Hi there,
+
+I hope you are doing well. I wanted to provide a brief update on the status of your request.
+
+Best regards",false,Associate Advisor
+msg_0023,2024-01-10 11:18:00,lisa.brown@exampleadvisors.com,william.moore@gmail.com,Schedule Change,"Hi John,
+
+I wanted to follow up on our recent conversation. Please let me know if you have any questions.
+
+Best regards",false,Lead Advisor
+msg_0024,2024-01-04 16:05:00,john.smith@exampleadvisors.com,lisa.brown@exampleadvisors.com,Approval Needed,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",false,Supervisory Principal
+msg_0025,2024-01-16 17:38:00,lisa.brown@exampleadvisors.com,william.moore@yahoo.com,Schedule Change,"Hi,
+
+This is a reminder about our upcoming meeting scheduled for next week. Looking forward to our discussion.
+
+Thanks",false,Associate Advisor
+msg_0026,2024-01-26 10:42:00,emily.davis@exampleadvisors.com,michael.chen@exampleadvisors.com,Client Portfolio Review,"Dear John,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks",false,Lead Advisor
+msg_0027,2024-01-05 16:13:00,sarah.johnson@exampleadvisors.com,michael.chen@exampleadvisors.com,Client Portfolio Review,"Hello Sarah,
+
+Thank you for reaching out. I have reviewed your request and will provide an update by end of week.
+
+Regards",false,Associate Advisor
+msg_0028,2024-02-09 16:00:00,david.wilson@exampleadvisors.com,michael.chen@exampleadvisors.com,Client Portfolio Review,"Good morning,
+
+I hope this email finds you well. I wanted to touch base regarding your account and discuss next steps.
+
+Best regards",true,Lead Advisor
+msg_0029,2024-01-18 12:38:00,lisa.brown@exampleadvisors.com,linda.jackson@company.com,Annual Review Discussion,"Dear Michael,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards",true,Associate Advisor
+msg_0030,2024-01-18 08:00:00,michael.chen@exampleadvisors.com,jennifer.white@business.net,Account Inquiry,"Hi David,
+
+I wanted to follow up on our recent conversation. Please let me know if you have any questions.
+
+Best regards",false,Lead Advisor
+msg_0031,2024-02-04 08:53:00,emily.davis@exampleadvisors.com,jennifer.white@gmail.com,Documentation Request,"Dear Michael,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards",false,Lead Advisor
+msg_0032,2024-01-23 11:43:00,james.miller@exampleadvisors.com,william.moore@business.net,Question About Statement,"Hi Sarah,
+
+I wanted to confirm that I received your documentation. Everything appears to be in order.
+
+Best",false,Lead Advisor
+msg_0033,2024-01-27 08:11:00,michael.chen@exampleadvisors.com,james.miller@exampleadvisors.com,Office Hours Update,"Hi Lisa,
+
+I wanted to confirm that I received your documentation. Everything appears to be in order.
+
+Best",false,Lead Advisor
+msg_0034,2024-02-14 09:24:00,james.miller@exampleadvisors.com,sarah.johnson@exampleadvisors.com,Approval Needed,"Hello Emily,
+
+Thank you for reaching out. I have reviewed your request and will provide an update by end of week.
+
+Regards",false,Supervisory Principal
+msg_0035,2024-01-15 11:01:00,emily.davis@exampleadvisors.com,michael.chen@exampleadvisors.com,Training Session Reminder,"Hello,
+
+Please find attached the quarterly statement for your review. If you have any questions, feel free to reach out.
+
+Thanks",false,Associate Advisor
+msg_0036,2024-02-13 16:21:00,john.smith@exampleadvisors.com,michael.chen@exampleadvisors.com,Compliance Approval,"Good morning,
+
+I hope this email finds you well. I wanted to touch base regarding your account and discuss next steps.
+
+Best regards
+
+Note: send this later after review.",false,Supervisory Principal
+msg_0037,2024-01-21 14:38:00,john.smith@exampleadvisors.com,david.wilson@exampleadvisors.com,Compliance Approval,"Hi Michael,
+
+I wanted to follow up on our recent conversation. Please let me know if you have any questions.
+
+Best regards",true,Supervisory Principal
+msg_0038,2024-02-04 11:23:00,lisa.brown@exampleadvisors.com,michael.chen@exampleadvisors.com,System Maintenance Notice,"Hi Lisa,
+
+I wanted to confirm that I received your documentation. Everything appears to be in order.
+
+Best",false,Associate Advisor
+msg_0039,2024-02-12 14:20:00,michael.chen@exampleadvisors.com,david.wilson@exampleadvisors.com,Compliance Checklist,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",false,Lead Advisor
+msg_0040,2024-02-09 17:19:00,james.miller@exampleadvisors.com,john.smith@exampleadvisors.com,Training Session Reminder,"Hi,
+
+This is a reminder about our upcoming meeting scheduled for next week. Looking forward to our discussion.
+
+Thanks",false,Associate Advisor
+msg_0041,2024-01-30 15:28:00,david.wilson@exampleadvisors.com,emily.davis@exampleadvisors.com,Compliance Checklist,"Dear Lisa,
+
+Thank you for your email. I will review this and get back to you shortly.
+
+Regards",false,Associate Advisor
+msg_0042,2024-01-06 11:43:00,jennifer.white@gmail.com,john.smith@exampleadvisors.com,Thank You,"Hello,
+
+I wanted to confirm our meeting time for next Tuesday at 2:00 PM. Please confirm if this still works for you.
+
+Thanks",true,Associate Advisor
+msg_0043,2024-02-10 17:12:00,emily.davis@exampleadvisors.com,emily.davis@exampleadvisors.com,Office Hours Update,"Hello,
+
+Per our discussion, I have attached the requested documents. Please review at your convenience.
+
+Best",true,Lead Advisor
+msg_0044,2024-01-28 11:11:00,lisa.brown@exampleadvisors.com,john.smith@exampleadvisors.com,Audit Trail Request,"Dear Sarah,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards",false,Supervisory Principal
+msg_0045,2024-01-30 16:35:00,james.miller@exampleadvisors.com,emily.davis@exampleadvisors.com,Office Hours Update,"Dear David,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks",false,Associate Advisor
+msg_0046,2024-01-29 12:48:00,charles.garcia@yahoo.com,emily.davis@exampleadvisors.com,Thank You,"Dear Michael,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks
+
+The performance metrics you requested are being prepared.",false,Associate Advisor
+msg_0047,2024-01-21 16:05:00,lisa.brown@exampleadvisors.com,jennifer.white@outlook.com,Meeting Follow-up,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",false,Lead Advisor
+msg_0048,2024-01-14 14:24:00,david.wilson@exampleadvisors.com,john.smith@exampleadvisors.com,Approval Needed,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",false,Supervisory Principal
+msg_0049,2024-01-20 14:54:00,james.miller@exampleadvisors.com,lisa.brown@exampleadvisors.com,Documentation Review,"Hello,
+
+Please find attached the quarterly statement for your review. If you have any questions, feel free to reach out.
+
+Thanks",false,Supervisory Principal
+msg_0050,2024-01-15 12:27:00,emily.davis@exampleadvisors.com,michael.chen@exampleadvisors.com,Office Hours Update,"Hello,
+
+Per our discussion, I have attached the requested documents. Please review at your convenience.
+
+Best",false,Lead Advisor
+msg_0051,2024-01-26 17:36:00,john.smith@exampleadvisors.com,lisa.brown@exampleadvisors.com,Office Hours Update,"Hi Sarah,
+
+I wanted to confirm that I received your documentation. Everything appears to be in order.
+
+Best",true,Associate Advisor
+msg_0052,2024-01-21 11:29:00,patricia.taylor@company.com,james.miller@exampleadvisors.com,Account Inquiry,"Hi Michael,
+
+I wanted to confirm that I received your documentation. Everything appears to be in order.
+
+Best
+
+I would recommend we schedule a follow-up call to discuss this further.",false,Lead Advisor
+msg_0053,2024-01-23 11:41:00,robert.martin@gmail.com,sarah.johnson@exampleadvisors.com,Thank You,"Hello,
+
+I wanted to confirm our meeting time for next Tuesday at 2:00 PM. Please confirm if this still works for you.
+
+Thanks",true,Lead Advisor
+msg_0054,2024-02-06 11:29:00,james.miller@exampleadvisors.com,michael.chen@exampleadvisors.com,Compliance Checklist,"Hello,
+
+I wanted to confirm our meeting time for next Tuesday at 2:00 PM. Please confirm if this still works for you.
+
+Thanks",false,Lead Advisor
+msg_0055,2024-01-20 09:37:00,lisa.brown@exampleadvisors.com,patricia.taylor@business.net,Thank You,"Hello,
+
+I wanted to confirm our meeting time for next Tuesday at 2:00 PM. Please confirm if this still works for you.
+
+Thanks",false,Lead Advisor
+msg_0056,2024-02-14 12:54:00,james.miller@exampleadvisors.com,john.smith@exampleadvisors.com,Weekly Team Meeting,"Hi,
+
+Just checking in to see if you received the materials I sent last week. Please let me know if you need anything else.
+
+Best",false,Associate Advisor
+msg_0057,2024-01-01 14:52:00,emily.davis@exampleadvisors.com,michael.chen@exampleadvisors.com,Policy Review Meeting,"Hello,
+
+Per our discussion, I have attached the requested documents. Please review at your convenience.
+
+Best",false,Associate Advisor
+msg_0058,2024-02-09 16:49:00,emily.davis@exampleadvisors.com,james.miller@exampleadvisors.com,Training Session Reminder,"Hi Michael,
+
+I wanted to confirm that I received your documentation. Everything appears to be in order.
+
+Best",false,Associate Advisor
+msg_0059,2024-01-29 11:48:00,david.wilson@exampleadvisors.com,lisa.brown@exampleadvisors.com,Office Hours Update,"Hi Michael,
+
+I wanted to follow up on our recent conversation. Please let me know if you have any questions.
+
+Best regards",false,Associate Advisor
+msg_0060,2024-01-14 13:51:00,david.wilson@exampleadvisors.com,linda.jackson@company.com,Portfolio Update Request,"Hi,
+
+This is a reminder about our upcoming meeting scheduled for next week. Looking forward to our discussion.
+
+Thanks
+
+Please note that I can also be reached at my gmail account if needed.",false,Lead Advisor
+msg_0061,2024-02-14 15:41:00,emily.davis@exampleadvisors.com,james.miller@exampleadvisors.com,Weekly Team Meeting,"Good morning,
+
+I hope this email finds you well. I wanted to touch base regarding your account and discuss next steps.
+
+Best regards",false,Associate Advisor
+msg_0062,2024-02-12 17:23:00,david.wilson@exampleadvisors.com,michael.chen@exampleadvisors.com,Office Hours Update,"Hi,
+
+Just checking in to see if you received the materials I sent last week. Please let me know if you need anything else.
+
+Best",false,Associate Advisor
+msg_0063,2024-01-20 12:14:00,john.smith@exampleadvisors.com,linda.jackson@yahoo.com,Question About Statement,"Hi,
+
+This is a reminder about our upcoming meeting scheduled for next week. Looking forward to our discussion.
+
+Thanks",false,Associate Advisor
+msg_0064,2024-01-07 11:18:00,john.smith@exampleadvisors.com,linda.jackson@yahoo.com,Question About Statement,"Hi Michael,
+
+I wanted to follow up on our recent conversation. Please let me know if you have any questions.
+
+Best regards",false,Lead Advisor
+msg_0065,2024-02-10 15:06:00,david.wilson@exampleadvisors.com,supervisory@exampleadvisors.com,Policy Reminder,"Hello Emily,
+
+Thank you for reaching out. I have reviewed your request and will provide an update by end of week.
+
+Regards",true,Supervisory Principal
+msg_0066,2024-01-31 09:52:00,david.wilson@exampleadvisors.com,linda.jackson@gmail.com,Question About Statement,"Hello,
+
+Please find attached the quarterly statement for your review. If you have any questions, feel free to reach out.
+
+Thanks",false,Lead Advisor
+msg_0067,2024-01-08 16:48:00,david.wilson@exampleadvisors.com,james.miller@exampleadvisors.com,Quarterly Report Discussion,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",false,Associate Advisor
+msg_0068,2024-01-20 17:39:00,robert.martin@outlook.com,lisa.brown@exampleadvisors.com,Thank You,"Dear Michael,
+
+Thank you for your patience. I am working on gathering the information you requested and will send it over shortly.
+
+Regards
+
+We should review your current allocation strategy in our next meeting.",false,Lead Advisor
+msg_0069,2024-01-11 08:26:00,david.wilson@exampleadvisors.com,emily.davis@exampleadvisors.com,Training Session Reminder,"Hi,
+
+This is a reminder about our upcoming meeting scheduled for next week. Looking forward to our discussion.
+
+Thanks",false,Associate Advisor
+msg_0070,2024-01-05 11:59:00,william.moore@outlook.com,emily.davis@exampleadvisors.com,Meeting Follow-up,"Hi,
+
+This is a reminder about our upcoming meeting scheduled for next week. Looking forward to our discussion.
+
+Thanks",false,Lead Advisor
+msg_0071,2024-01-05 08:10:00,david.wilson@exampleadvisors.com,david.wilson@exampleadvisors.com,Supervisory Review Complete,"Dear Emily,
+
+Thank you for your email. I will review this and get back to you shortly.
+
+Regards",false,Supervisory Principal
+msg_0072,2024-01-26 12:32:00,emily.davis@exampleadvisors.com,john.smith@exampleadvisors.com,Weekly Team Meeting,"Hi there,
+
+I hope you are doing well. I wanted to provide a brief update on the status of your request.
+
+Best regards",false,Lead Advisor
+msg_0073,2024-01-15 17:37:00,james.miller@exampleadvisors.com,michael.chen@exampleadvisors.com,Audit Trail Request,"Hello,
+
+Please find attached the quarterly statement for your review. If you have any questions, feel free to reach out.
+
+Thanks",false,Supervisory Principal
+msg_0074,2024-02-11 15:58:00,patricia.taylor@business.net,john.smith@exampleadvisors.com,Annual Review Discussion,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",false,Lead Advisor
+msg_0075,2024-01-22 14:44:00,lisa.brown@exampleadvisors.com,emily.davis@exampleadvisors.com,Weekly Team Meeting,"Dear Emily,
+
+Thank you for your email. I will review this and get back to you shortly.
+
+Regards",false,Associate Advisor
+msg_0076,2024-02-02 08:42:00,emily.davis@exampleadvisors.com,sarah.johnson@exampleadvisors.com,Audit Trail Request,"Hello,
+
+I wanted to confirm our meeting time for next Tuesday at 2:00 PM. Please confirm if this still works for you.
+
+Thanks",false,Supervisory Principal
+msg_0077,2024-01-04 11:17:00,michael.chen@exampleadvisors.com,emily.davis@exampleadvisors.com,Policy Review Meeting,"Hi John,
+
+I wanted to follow up on our recent conversation. Please let me know if you have any questions.
+
+Best regards",false,Lead Advisor
+msg_0078,2024-02-15 10:19:00,david.wilson@exampleadvisors.com,emily.davis@exampleadvisors.com,Client Portfolio Review,"Hi Sarah,
+
+I wanted to confirm that I received your documentation. Everything appears to be in order.
+
+Best",false,Lead Advisor
+msg_0079,2024-02-11 10:31:00,michael.chen@exampleadvisors.com,michael.chen@exampleadvisors.com,Policy Reminder,"Dear Emily,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks",false,Supervisory Principal
+msg_0080,2024-01-25 11:58:00,lisa.brown@exampleadvisors.com,sarah.johnson@exampleadvisors.com,Client Portfolio Review,"Hello,
+
+Please find attached the quarterly statement for your review. If you have any questions, feel free to reach out.
+
+Thanks",false,Associate Advisor
+msg_0081,2024-01-01 12:46:00,lisa.brown@exampleadvisors.com,patricia.taylor@outlook.com,Annual Review Discussion,"Dear David,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks",false,Associate Advisor
+msg_0082,2024-01-30 13:55:00,william.moore@business.net,sarah.johnson@exampleadvisors.com,Account Inquiry,"Hello John,
+
+Thank you for reaching out. I have reviewed your request and will provide an update by end of week.
+
+Regards",false,Associate Advisor
+msg_0083,2024-01-25 10:31:00,sarah.johnson@exampleadvisors.com,david.wilson@exampleadvisors.com,Supervisory Review Complete,"Hi John,
+
+I wanted to confirm that I received your documentation. Everything appears to be in order.
+
+Best",true,Supervisory Principal
+msg_0084,2024-01-30 08:46:00,jennifer.white@gmail.com,emily.davis@exampleadvisors.com,Documentation Request,"Hello,
+
+I wanted to confirm our meeting time for next Tuesday at 2:00 PM. Please confirm if this still works for you.
+
+Thanks",false,Associate Advisor
+msg_0085,2024-02-13 16:24:00,lisa.brown@exampleadvisors.com,james.miller@exampleadvisors.com,Policy Reminder,"Hi David,
+
+I wanted to follow up on our recent conversation. Please let me know if you have any questions.
+
+Best regards",false,Supervisory Principal
+msg_0086,2024-02-13 12:14:00,emily.davis@exampleadvisors.com,john.smith@exampleadvisors.com,Client Portfolio Review,"Hello,
+
+Per our discussion, I have attached the requested documents. Please review at your convenience.
+
+Best",false,Lead Advisor
+msg_0087,2024-01-21 08:18:00,sarah.johnson@exampleadvisors.com,william.moore@business.net,Question About Statement,"Hello,
+
+Per our discussion, I have attached the requested documents. Please review at your convenience.
+
+Best
+
+Please note that I can also be reached at my gmail account if needed.",false,Lead Advisor
+msg_0088,2024-02-01 17:09:00,patricia.taylor@company.com,lisa.brown@exampleadvisors.com,Portfolio Update Request,"Dear Emily,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards",false,Lead Advisor
+msg_0089,2024-01-29 13:37:00,linda.jackson@company.com,emily.davis@exampleadvisors.com,Documentation Request,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",true,Associate Advisor
+msg_0090,2024-02-06 13:36:00,robert.martin@business.net,michael.chen@exampleadvisors.com,Portfolio Update Request,"Hi David,
+
+I wanted to confirm that I received your documentation. Everything appears to be in order.
+
+Best",false,Lead Advisor
+msg_0091,2024-02-08 15:53:00,michael.chen@exampleadvisors.com,sarah.johnson@exampleadvisors.com,Audit Trail Request,"Hi,
+
+This is a reminder about our upcoming meeting scheduled for next week. Looking forward to our discussion.
+
+Thanks",false,Supervisory Principal
+msg_0092,2024-02-13 10:40:00,robert.martin@company.com,james.miller@exampleadvisors.com,Annual Review Discussion,"Hello,
+
+I wanted to confirm our meeting time for next Tuesday at 2:00 PM. Please confirm if this still works for you.
+
+Thanks",true,Associate Advisor
+msg_0093,2024-01-21 14:11:00,thomas.anderson@yahoo.com,david.wilson@exampleadvisors.com,Documentation Request,"Good morning,
+
+I hope this email finds you well. I wanted to touch base regarding your account and discuss next steps.
+
+Best regards",false,Associate Advisor
+msg_0094,2024-01-22 09:29:00,sarah.johnson@exampleadvisors.com,sarah.johnson@exampleadvisors.com,Approval Needed,"Hi there,
+
+I hope you are doing well. I wanted to provide a brief update on the status of your request.
+
+Best regards",false,Supervisory Principal
+msg_0095,2024-02-05 13:05:00,john.smith@exampleadvisors.com,supervisory@exampleadvisors.com,Review Required,"Hello Emily,
+
+Thank you for reaching out. I have reviewed your request and will provide an update by end of week.
+
+Regards",false,Supervisory Principal
+msg_0096,2024-02-07 14:52:00,michael.chen@exampleadvisors.com,john.smith@exampleadvisors.com,Quarterly Report Discussion,"Hi Emily,
+
+I wanted to follow up on our recent conversation. Please let me know if you have any questions.
+
+Best regards",false,Associate Advisor
+msg_0097,2024-02-09 11:41:00,linda.jackson@company.com,lisa.brown@exampleadvisors.com,Account Inquiry,"Hello,
+
+Per our discussion, I have attached the requested documents. Please review at your convenience.
+
+Best
+
+I would recommend we schedule a follow-up call to discuss this further.",false,Associate Advisor
+msg_0098,2024-01-08 09:15:00,sarah.johnson@exampleadvisors.com,michael.chen@exampleadvisors.com,Documentation Review,"Hi there,
+
+I hope you are doing well. I wanted to provide a brief update on the status of your request.
+
+Best regards",false,Supervisory Principal
+msg_0099,2024-01-10 14:41:00,emily.davis@exampleadvisors.com,thomas.anderson@gmail.com,Schedule Change,"Dear Sarah,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks",false,Associate Advisor
+msg_0100,2024-01-07 13:34:00,lisa.brown@exampleadvisors.com,emily.davis@exampleadvisors.com,Supervisory Review Complete,"Dear Sarah,
+
+Thank you for your email. I will review this and get back to you shortly.
+
+Regards",false,Supervisory Principal
+msg_0101,2024-01-06 11:41:00,john.smith@exampleadvisors.com,john.smith@exampleadvisors.com,System Maintenance Notice,"Hello,
+
+Per our discussion, I have attached the requested documents. Please review at your convenience.
+
+Best",false,Lead Advisor
+msg_0102,2024-02-07 11:52:00,michael.chen@exampleadvisors.com,james.miller@exampleadvisors.com,Audit Trail Request,"Good morning,
+
+I hope this email finds you well. I wanted to touch base regarding your account and discuss next steps.
+
+Best regards",true,Supervisory Principal
+msg_0103,2024-01-09 16:16:00,john.smith@exampleadvisors.com,john.smith@exampleadvisors.com,Compliance Approval,"Hello John,
+
+Thank you for reaching out. I have reviewed your request and will provide an update by end of week.
+
+Regards",false,Supervisory Principal
+msg_0104,2024-01-21 08:11:00,emily.davis@exampleadvisors.com,william.moore@gmail.com,Meeting Follow-up,"Dear Emily,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks",false,Lead Advisor
+msg_0105,2024-01-29 16:14:00,john.smith@exampleadvisors.com,james.miller@exampleadvisors.com,Documentation Review,"Good morning,
+
+I hope this email finds you well. I wanted to touch base regarding your account and discuss next steps.
+
+Best regards",false,Supervisory Principal
+msg_0106,2024-01-04 15:54:00,lisa.brown@exampleadvisors.com,john.smith@exampleadvisors.com,Policy Review Meeting,"Dear Lisa,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards",false,Associate Advisor
+msg_0107,2024-02-08 10:04:00,william.moore@yahoo.com,lisa.brown@exampleadvisors.com,Schedule Change,"Hello,
+
+I wanted to confirm our meeting time for next Tuesday at 2:00 PM. Please confirm if this still works for you.
+
+Thanks",false,Associate Advisor
+msg_0108,2024-01-07 09:54:00,james.miller@exampleadvisors.com,david.wilson@exampleadvisors.com,Quarterly Report Discussion,"Dear Emily,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks",false,Associate Advisor
+msg_0109,2024-01-26 14:46:00,lisa.brown@exampleadvisors.com,thomas.anderson@company.com,Question About Statement,"Dear Lisa,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards",true,Lead Advisor
+msg_0110,2024-01-06 14:06:00,michael.chen@exampleadvisors.com,james.miller@exampleadvisors.com,Compliance Checklist,"Hi David,
+
+I wanted to follow up on our recent conversation. Please let me know if you have any questions.
+
+Best regards",false,Associate Advisor
+msg_0111,2024-02-12 09:26:00,charles.garcia@business.net,james.miller@exampleadvisors.com,Portfolio Update Request,"Hello,
+
+I wanted to confirm our meeting time for next Tuesday at 2:00 PM. Please confirm if this still works for you.
+
+Thanks",true,Lead Advisor
+msg_0112,2024-01-10 15:14:00,michael.chen@exampleadvisors.com,michael.chen@exampleadvisors.com,Review Required,"Hello,
+
+I wanted to confirm our meeting time for next Tuesday at 2:00 PM. Please confirm if this still works for you.
+
+Thanks",false,Supervisory Principal
+msg_0113,2024-02-05 17:39:00,david.wilson@exampleadvisors.com,john.smith@exampleadvisors.com,Training Session Reminder,"Hello,
+
+Per our discussion, I have attached the requested documents. Please review at your convenience.
+
+Best",false,Associate Advisor
+msg_0114,2024-01-23 08:11:00,david.wilson@exampleadvisors.com,john.smith@exampleadvisors.com,Compliance Approval,"Dear Lisa,
+
+Thank you for your patience. I am working on gathering the information you requested and will send it over shortly.
+
+Regards",true,Supervisory Principal
+msg_0115,2024-02-03 11:24:00,michael.chen@exampleadvisors.com,sarah.johnson@exampleadvisors.com,System Maintenance Notice,"Hi there,
+
+I hope you are doing well. I wanted to provide a brief update on the status of your request.
+
+Best regards",false,Lead Advisor
+msg_0116,2024-01-04 10:10:00,john.smith@exampleadvisors.com,michael.chen@exampleadvisors.com,Policy Reminder,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",false,Supervisory Principal
+msg_0117,2024-01-18 11:48:00,michael.chen@exampleadvisors.com,emily.davis@exampleadvisors.com,Client Portfolio Review,"Dear Michael,
+
+Thank you for your patience. I am working on gathering the information you requested and will send it over shortly.
+
+Regards",false,Associate Advisor
+msg_0118,2024-01-03 11:25:00,john.smith@exampleadvisors.com,supervisory@exampleadvisors.com,Supervisory Review Complete,"Hello,
+
+Please find attached the quarterly statement for your review. If you have any questions, feel free to reach out.
+
+Thanks",false,Supervisory Principal
+msg_0119,2024-01-21 09:00:00,emily.davis@exampleadvisors.com,sarah.johnson@exampleadvisors.com,Compliance Checklist,"Hi,
+
+Just checking in to see if you received the materials I sent last week. Please let me know if you need anything else.
+
+Best",false,Associate Advisor
+msg_0120,2024-01-05 14:55:00,emily.davis@exampleadvisors.com,john.smith@exampleadvisors.com,Policy Review Meeting,"Hi John,
+
+I wanted to confirm that I received your documentation. Everything appears to be in order.
+
+Best",false,Associate Advisor
+msg_0121,2024-02-15 14:18:00,michael.chen@exampleadvisors.com,jennifer.white@yahoo.com,Annual Review Discussion,"Dear Lisa,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards",false,Lead Advisor
+msg_0122,2024-01-16 14:37:00,john.smith@exampleadvisors.com,emily.davis@exampleadvisors.com,Training Session Reminder,"Hello Lisa,
+
+Thank you for reaching out. I have reviewed your request and will provide an update by end of week.
+
+Regards",false,Lead Advisor
+msg_0123,2024-02-02 09:33:00,james.miller@exampleadvisors.com,michael.chen@exampleadvisors.com,System Maintenance Notice,"Hi Lisa,
+
+I wanted to confirm that I received your documentation. Everything appears to be in order.
+
+Best",true,Lead Advisor
+msg_0124,2024-01-10 12:12:00,james.miller@exampleadvisors.com,linda.jackson@gmail.com,Question About Statement,"Dear Lisa,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks",false,Associate Advisor
+msg_0125,2024-02-13 17:41:00,david.wilson@exampleadvisors.com,michael.chen@exampleadvisors.com,System Maintenance Notice,"Dear Sarah,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks
+
+Please note that I can also be reached at my gmail account if needed.",false,Associate Advisor
+msg_0126,2024-02-07 08:22:00,michael.chen@exampleadvisors.com,emily.davis@exampleadvisors.com,Policy Review Meeting,"Hi John,
+
+I wanted to follow up on our recent conversation. Please let me know if you have any questions.
+
+Best regards",false,Lead Advisor
+msg_0127,2024-02-09 17:32:00,james.miller@exampleadvisors.com,linda.jackson@gmail.com,Annual Review Discussion,"Dear David,
+
+Thank you for your patience. I am working on gathering the information you requested and will send it over shortly.
+
+Regards",false,Lead Advisor
+msg_0128,2024-01-04 15:06:00,james.miller@exampleadvisors.com,lisa.brown@exampleadvisors.com,Review Required,"Dear David,
+
+Thank you for your patience. I am working on gathering the information you requested and will send it over shortly.
+
+Regards",false,Supervisory Principal
+msg_0129,2024-01-29 15:33:00,sarah.johnson@exampleadvisors.com,michael.chen@exampleadvisors.com,System Maintenance Notice,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",false,Lead Advisor
+msg_0130,2024-02-10 13:04:00,emily.davis@exampleadvisors.com,thomas.anderson@company.com,Question About Statement,"Dear Michael,
+
+Thank you for your email. I will review this and get back to you shortly.
+
+Regards",true,Associate Advisor
+msg_0131,2024-01-20 14:08:00,john.smith@exampleadvisors.com,michael.chen@exampleadvisors.com,Office Hours Update,"Hello,
+
+Please find attached the quarterly statement for your review. If you have any questions, feel free to reach out.
+
+Thanks",true,Lead Advisor
+msg_0132,2024-02-11 14:32:00,sarah.johnson@exampleadvisors.com,jennifer.white@company.com,Annual Review Discussion,"Hi,
+
+This is a reminder about our upcoming meeting scheduled for next week. Looking forward to our discussion.
+
+Thanks",false,Associate Advisor
+msg_0133,2024-01-07 16:49:00,lisa.brown@exampleadvisors.com,david.wilson@exampleadvisors.com,Weekly Team Meeting,"Hello Lisa,
+
+Thank you for reaching out. I have reviewed your request and will provide an update by end of week.
+
+Regards",false,Associate Advisor
+msg_0134,2024-01-10 10:11:00,james.miller@exampleadvisors.com,sarah.johnson@exampleadvisors.com,Documentation Review,"Hi Emily,
+
+I wanted to follow up on our recent conversation. Please let me know if you have any questions.
+
+Best regards",false,Supervisory Principal
+msg_0135,2024-01-16 15:39:00,patricia.taylor@outlook.com,david.wilson@exampleadvisors.com,Thank You,"Hello,
+
+Please find attached the quarterly statement for your review. If you have any questions, feel free to reach out.
+
+Thanks",false,Lead Advisor
+msg_0136,2024-01-24 17:28:00,michael.chen@exampleadvisors.com,james.miller@exampleadvisors.com,Office Hours Update,"Hi,
+
+Just checking in to see if you received the materials I sent last week. Please let me know if you need anything else.
+
+Best",false,Lead Advisor
+msg_0137,2024-02-08 10:55:00,charles.garcia@company.com,david.wilson@exampleadvisors.com,Meeting Follow-up,"Hi Lisa,
+
+I wanted to confirm that I received your documentation. Everything appears to be in order.
+
+Best",true,Lead Advisor
+msg_0138,2024-01-11 12:28:00,sarah.johnson@exampleadvisors.com,john.smith@exampleadvisors.com,Compliance Approval,"Dear Emily,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards",true,Supervisory Principal
+msg_0139,2024-01-04 14:32:00,john.smith@exampleadvisors.com,thomas.anderson@outlook.com,Portfolio Update Request,"Dear Michael,
+
+Thank you for taking the time to meet with me last week. I will follow up with the information we discussed.
+
+Regards
+
+The performance metrics you requested are being prepared.",false,Lead Advisor
+msg_0140,2024-01-03 12:58:00,lisa.brown@exampleadvisors.com,james.miller@exampleadvisors.com,Documentation Review,"Dear Emily,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks",false,Supervisory Principal
+msg_0141,2024-01-02 12:13:00,david.wilson@exampleadvisors.com,david.wilson@exampleadvisors.com,Audit Trail Request,"Dear Emily,
+
+Thank you for your email. I will review this and get back to you shortly.
+
+Regards",false,Supervisory Principal
+msg_0142,2024-01-08 08:15:00,james.miller@exampleadvisors.com,david.wilson@exampleadvisors.com,Policy Review Meeting,"Dear John,
+
+Thank you for your email. I will review this and get back to you shortly.
+
+Regards",false,Lead Advisor
+msg_0143,2024-02-10 16:36:00,emily.davis@exampleadvisors.com,robert.martin@yahoo.com,Schedule Change,"Hello,
+
+I wanted to confirm our meeting time for next Tuesday at 2:00 PM. Please confirm if this still works for you.
+
+Thanks",false,Lead Advisor
+msg_0144,2024-02-03 13:04:00,david.wilson@exampleadvisors.com,david.wilson@exampleadvisors.com,Audit Trail Request,"Hi there,
+
+Following up on our call yesterday. Please find the information we discussed below.
+
+Best",true,Supervisory Principal
+msg_0145,2024-01-25 13:16:00,michael.chen@exampleadvisors.com,james.miller@exampleadvisors.com,Client Portfolio Review,"Hi,
+
+This is a reminder about our upcoming meeting scheduled for next week. Looking forward to our discussion.
+
+Thanks",false,Associate Advisor
+msg_0146,2024-01-09 08:22:00,james.miller@exampleadvisors.com,lisa.brown@exampleadvisors.com,Compliance Checklist,"Dear Lisa,
+
+I wanted to confirm receipt of your documentation. Everything looks good on our end.
+
+Thanks",false,Lead Advisor
+msg_0147,2024-01-09 09:45:00,emily.davis@exampleadvisors.com,supervisory@exampleadvisors.com,Compliance Approval,"Hello,
+
+Please find attached the quarterly statement for your review. If you have any questions, feel free to reach out.
+
+Thanks",true,Supervisory Principal
+msg_0148,2024-01-20 16:25:00,david.wilson@exampleadvisors.com,john.smith@exampleadvisors.com,Approval Needed,"Hi,
+
+This is a reminder about our upcoming meeting scheduled for next week. Looking forward to our discussion.
+
+Thanks",false,Supervisory Principal
+msg_0149,2024-01-04 13:17:00,emily.davis@exampleadvisors.com,linda.jackson@business.net,Account Inquiry,"Hello,
+
+Per our discussion, I have attached the requested documents. Please review at your convenience.
+
+Best",false,Associate Advisor
+msg_0150,2024-01-06 14:05:00,james.miller@exampleadvisors.com,sarah.johnson@exampleadvisors.com,Training Session Reminder,"Dear Michael,
+
+Thank you for your email. I will review this and get back to you shortly.
+
+Regards
+
+The performance metrics you requested are being prepared.",false,Associate Advisor
