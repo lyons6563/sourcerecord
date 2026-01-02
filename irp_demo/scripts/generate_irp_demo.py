@@ -243,17 +243,16 @@ def generate_pdf(emails, slack_data, pack_id, time_window_start, time_window_end
     # Purpose and Context
     story.append(Paragraph("Purpose and Context", heading_style))
     story.append(Paragraph(
-        "This response pack has been prepared in response to an SEC inquiry regarding "
-        "communications and documentation practices during the specified time period. "
-        "The pack contains a systematic review of email and messaging communications "
-        "from designated custodians, categorized according to predefined criteria.",
+        "This response pack has been prepared in response to an SEC inquiry. "
+        "The pack contains email and messaging communications from designated custodians "
+        "within the specified time window, categorized according to predefined keyword-based criteria.",
         normal_style
     ))
     story.append(Spacer(1, 0.3*inch))
     
     # Scope of Review
     story.append(Paragraph("Scope of Review", heading_style))
-    story.append(Paragraph("The review encompassed the following:", normal_style))
+    story.append(Paragraph("The scope includes the following:", normal_style))
     story.append(Spacer(1, 0.1*inch))
     story.append(Paragraph("• Email communications from designated custodians", normal_style))
     story.append(Paragraph("• Slack workspace communications from designated channels", normal_style))
@@ -283,7 +282,7 @@ def generate_pdf(emails, slack_data, pack_id, time_window_start, time_window_end
     
     # Explicit Exclusions
     story.append(Paragraph("Explicit Exclusions", heading_style))
-    story.append(Paragraph("The following were explicitly excluded from this review:", normal_style))
+    story.append(Paragraph("The following are excluded from this pack:", normal_style))
     story.append(Spacer(1, 0.1*inch))
     story.append(Paragraph("• Communications outside the specified time window", normal_style))
     story.append(Paragraph("• Communications from custodians not designated for this review", normal_style))
@@ -383,7 +382,7 @@ def generate_pdf(emails, slack_data, pack_id, time_window_start, time_window_end
     
     # Policy Context
     story.append(Paragraph("Policy Context", heading_style))
-    story.append(Paragraph("The following policies are referenced for context:", normal_style))
+    story.append(Paragraph("The following policies are listed for reference only:", normal_style))
     story.append(Spacer(1, 0.1*inch))
     story.append(Paragraph("• Communication Policy (Effective: 2023-01-01)", normal_style))
     story.append(Paragraph("• Electronic Communications Policy (Effective: 2023-06-15)", normal_style))
@@ -394,12 +393,11 @@ def generate_pdf(emails, slack_data, pack_id, time_window_start, time_window_end
     # Methodology and Reproducibility
     story.append(Paragraph("Methodology and Reproducibility", heading_style))
     story.append(Paragraph(
-        "This response pack was generated using a deterministic process that ensures "
-        "identical inputs produce identical outputs. All files included in this pack "
-        "have been hashed using SHA256, and the manifest.json file contains these hashes "
-        "for verification. The categorization process uses keyword-based rules applied "
-        "consistently across all communications. The verify.py script included in this "
-        "pack can be used to verify the integrity of all files against the manifest.",
+        "This response pack was generated using a deterministic process. Files included in this pack "
+        "have been hashed using SHA256, and the manifest.json file contains these hashes. "
+        "The categorization process uses keyword-based rules applied to the communications "
+        "included in the input files. The verify.py script included in this pack can be used "
+        "to verify file integrity against the manifest.",
         normal_style
     ))
     story.append(Spacer(1, 0.3*inch))
@@ -407,8 +405,8 @@ def generate_pdf(emails, slack_data, pack_id, time_window_start, time_window_end
     # Closing Statement
     story.append(Paragraph("Closing Statement", heading_style))
     story.append(Paragraph(
-        "This response pack represents a complete and accurate compilation of the "
-        "communications reviewed in accordance with the specified scope and methodology.",
+        "This response pack contains communications from the specified input files, "
+        "processed according to the scope and methodology described above.",
         normal_style
     ))
     
@@ -574,6 +572,16 @@ def write_zip_entry(zipf, path, data_bytes):
 
 def main():
     """Main function to generate the response pack."""
+    # Preflight validation
+    if not EMAIL_CSV.exists():
+        print(f"Error: Required input file not found: {EMAIL_CSV}")
+        print("Please ensure email_export.csv is placed in irp_demo/data/")
+        return 1
+    if not SLACK_JSON.exists():
+        print(f"Error: Required input file not found: {SLACK_JSON}")
+        print("Please ensure slack_export.json is placed in irp_demo/data/")
+        return 1
+    
     try:
         # Read input data
         print("Reading input data...")
